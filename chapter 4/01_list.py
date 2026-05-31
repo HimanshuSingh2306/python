@@ -5,3 +5,4 @@ friends[0] = "HImanshu singh"
 print(friends[0])
 #we can store  any type of data type
 #list indexing start from 0
+print(friends[1:4])
