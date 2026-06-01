@@ -13,3 +13,6 @@ lang4= input("enter the language")
 
 s.update( {name1: lang1,name2:lang2,name3:lang3,name4: lang4})
 print(dict(s))
+# if keys are same then 
+# i enterred rohan = c and then rohan = js
+# then the output is only rohan = js
