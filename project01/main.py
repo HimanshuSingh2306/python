@@ -4,7 +4,7 @@ water = 0
 gun  =-1
 '''
 import random
-computer = random.choice([1,0,-1])
+computer = random.choice([0,1,-1])
 
 
 youstr = (input("choose: "))
